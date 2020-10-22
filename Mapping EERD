@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T12:14:16.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3B_jn9M1DPkPqWzxknrX" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T12:17:39.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="uXrtXhQb46euO4VRhRhG" version="13.8.1" type="github">
   <diagram id="xrzWqXIVq5YCZ8cHsuRz" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
         <mxCell id="_puLFqBaWVEMt9THHVfo-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-7">
           <mxGeometry width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_puLFqBaWVEMt9THHVfo-9" value="&lt;u&gt;NIM&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-8">
+        <mxCell id="_puLFqBaWVEMt9THHVfo-9" value="NIM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-8">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_puLFqBaWVEMt9THHVfo-10" value="&lt;u&gt;ID SOAL&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-8">
+        <mxCell id="_puLFqBaWVEMt9THHVfo-10" value="ID SOAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-8">
           <mxGeometry x="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_puLFqBaWVEMt9THHVfo-11" value="&lt;u&gt;ID JAWABAN&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-8">
@@ -76,7 +76,7 @@
         <mxCell id="_puLFqBaWVEMt9THHVfo-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-23">
           <mxGeometry width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_puLFqBaWVEMt9THHVfo-25" value="&lt;u&gt;ID TUGAS&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-24">
+        <mxCell id="_puLFqBaWVEMt9THHVfo-25" value="ID TUGAS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-24">
           <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_puLFqBaWVEMt9THHVfo-26" value="PERTANYAAN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-24">
@@ -211,7 +211,7 @@
         <mxCell id="_puLFqBaWVEMt9THHVfo-78" value="&lt;u&gt;ID JAWABAN&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-77">
           <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_puLFqBaWVEMt9THHVfo-79" value="&lt;u&gt;ID SOAL&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-77">
+        <mxCell id="_puLFqBaWVEMt9THHVfo-79" value="ID SOAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-77">
           <mxGeometry x="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_puLFqBaWVEMt9THHVfo-81" value="PILIHAN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-77">
@@ -235,7 +235,7 @@
         <mxCell id="_puLFqBaWVEMt9THHVfo-85" value="&lt;u&gt;ID JAWABAN&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-84">
           <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_puLFqBaWVEMt9THHVfo-86" value="&lt;u&gt;ID SOAL&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-84">
+        <mxCell id="_puLFqBaWVEMt9THHVfo-86" value="ID SOAL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-84">
           <mxGeometry x="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_puLFqBaWVEMt9THHVfo-87" value="ISI" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="_puLFqBaWVEMt9THHVfo-84">
