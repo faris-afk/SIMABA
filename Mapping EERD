@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T15:34:19.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="hNn9yNDZ-KO9LJ6_ZDtt" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T15:39:20.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ugRTkNoYL77ApAPSl4mj" version="13.8.5" type="github">
   <diagram id="xrzWqXIVq5YCZ8cHsuRz" name="Page-1">
-    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
         <mxCell id="_puLFqBaWVEMt9THHVfo-73" value="&lt;u&gt;ID SOAL PILGAN&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="_puLFqBaWVEMt9THHVfo-72" vertex="1">
           <mxGeometry width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_puLFqBaWVEMt9THHVfo-74" value="PILIHAN JAWABAN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="_puLFqBaWVEMt9THHVfo-72" vertex="1">
+        <mxCell id="_puLFqBaWVEMt9THHVfo-74" value="&lt;u&gt;PILIHAN JAWABAN&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="_puLFqBaWVEMt9THHVfo-72" vertex="1">
           <mxGeometry x="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_puLFqBaWVEMt9THHVfo-75" value="&lt;b&gt;SOAL PILGAN&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -389,7 +389,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdvQlkzYqifvyFk32teT-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.292;entryY=1.255;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_puLFqBaWVEMt9THHVfo-14">
+        <mxCell id="pdvQlkzYqifvyFk32teT-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0.292;entryY=1.255;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="_puLFqBaWVEMt9THHVfo-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="530" as="sourcePoint" />
             <mxPoint x="340" y="480" as="targetPoint" />
@@ -398,7 +398,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdvQlkzYqifvyFk32teT-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0.908;entryY=1.161;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_puLFqBaWVEMt9THHVfo-77" target="_puLFqBaWVEMt9THHVfo-24">
+        <mxCell id="pdvQlkzYqifvyFk32teT-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0.908;entryY=1.161;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_puLFqBaWVEMt9THHVfo-77" target="_puLFqBaWVEMt9THHVfo-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="760" as="sourcePoint" />
             <mxPoint x="540" y="630" as="targetPoint" />
@@ -410,7 +410,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdvQlkzYqifvyFk32teT-5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.478;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_puLFqBaWVEMt9THHVfo-72" target="_puLFqBaWVEMt9THHVfo-67">
+        <mxCell id="pdvQlkzYqifvyFk32teT-5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.478;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_puLFqBaWVEMt9THHVfo-72" target="_puLFqBaWVEMt9THHVfo-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="650" as="sourcePoint" />
             <mxPoint x="570" y="600" as="targetPoint" />
